@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "noImplicitAny": true,
+    "target": "ES5",
+    "module": "ES2015",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
